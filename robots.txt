@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://motherteresaschoolnazirpur.com/sitemap.xml
